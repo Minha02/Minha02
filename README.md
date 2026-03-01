@@ -27,14 +27,9 @@ I enjoy building scalable applications, solving real-world problems with code, a
 ---
 
 ## 📊 GitHub Stats
-![Minha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Minha02&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Minha02&layout=compact&theme=tokyonight)  
+![Minha's GitHub Stats](https://github-readme-stats-minha.vercel.app/api?username=Minha02&show_icons=true&theme=tokyonight)
 
-
-## 📊 GitHub Stats
-![Minha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Minha02&show_icons=true&theme=tokyonight&rank_icon=github)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Minha02&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats-minha.vercel.app/api/top-langs/?username=Minha02&layout=compact&theme=tokyonight)
 ---
 
 ## 🌐 Connect With Me
