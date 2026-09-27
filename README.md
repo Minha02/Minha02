@@ -34,7 +34,6 @@ I enjoy building scalable applications, solving real-world problems with code, a
 
 ## 🌐 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/minha-quadir)  
-[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/Minha02)  
-📧 Email: fathumaminha@gmail.com  
+[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/Minha02)    
 
 ---
